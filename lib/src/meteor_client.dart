@@ -348,7 +348,7 @@ class MeteorClient {
     return _userStream;
   }
 
-  Map<String, dynamic> userCurrentValue() {
+  Map<String, dynamic>? userCurrentValue() {
     return _userSubject.value;
   }
 

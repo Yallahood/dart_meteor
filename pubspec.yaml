@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   crypto: ^3.0.1
-  rxdart: ^0.27.0
+  rxdart: ^0.26.0
 
 dev_dependencies:
   pedantic: ^1.11.0
